@@ -35,31 +35,31 @@ The notebook follows an industry-standard machine learning workflow, making it s
 
 ### 📖 Project Cover
 
-![Cover Page](images/cover_page.png)
+![Cover Page](Images/cover_page.png)
 
 ---
 
 ### 📊 Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Images/correlation_heatmap.png)
 
 ---
 
 ### 📈 Model Performance Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](Images/model_comparison.png)
 
 ---
 
 ### 🎯 Actual vs Predicted Deliveries
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](Images/actual_vs_predicted.png)
 
 ---
 
 ### 📉 Time Series Forecast
 
-![Forecast](images/forecast_plot.png)
+![Forecast](Images/forecast_plot.png)
 
 
 
