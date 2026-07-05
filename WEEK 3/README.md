@@ -53,8 +53,6 @@
 
 # 📖 Project Overview
 
-This assignment develops a **Customer Intelligence System** using **Classification**, **Ensemble Learning**, and **Clustering** techniques.
-
 This repository contains my Week 3 assignment submitted as part of the **Celebal Excellence Internship (CEI) Program 2026**.
 
 The assignment focuses on developing a **Customer Intelligence System** using **Classification, Ensemble Learning, and Clustering** techniques. Using the provided dataset, the notebook demonstrates a complete machine learning workflow—from exploratory data analysis and preprocessing to clustering, classification, model evaluation, and business insights.
@@ -76,6 +74,7 @@ The assignment demonstrates a complete Machine Learning pipeline, beginning with
 - Interpret model performance
 - Generate business insights
 
+> **Note:** The workflow demonstrated in this notebook is directly applicable to customer segmentation, marketing analytics, recommendation systems, and business intelligence applications.
 ---
 
 # 🏗 Machine Learning Workflow
