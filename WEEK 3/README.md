@@ -74,7 +74,7 @@ The assignment demonstrates a complete Machine Learning pipeline, beginning with
 - Interpret model performance
 - Generate business insights
 
-> **Note:** The workflow demonstrated in this notebook is directly applicable to customer segmentation, marketing analytics, recommendation systems, and business intelligence applications.
+**Note:** The workflow demonstrated in this notebook is directly applicable to customer segmentation, marketing analytics, recommendation systems, and business intelligence applications.
 ---
 
 # 🏗 Machine Learning Workflow
