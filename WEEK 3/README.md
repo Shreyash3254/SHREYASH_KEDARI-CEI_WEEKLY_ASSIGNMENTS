@@ -53,11 +53,16 @@
 
 # 📖 Project Overview
 
-This project develops a **Customer Intelligence System** using **Classification**, **Ensemble Learning**, and **Clustering** techniques.
+This assignment develops a **Customer Intelligence System** using **Classification**, **Ensemble Learning**, and **Clustering** techniques.
+
+This repository contains my Week 3 assignment submitted as part of the **Celebal Excellence Internship (CEI) Program 2026**.
+
+The assignment focuses on developing a **Customer Intelligence System** using **Classification, Ensemble Learning, and Clustering** techniques. Using the provided dataset, the notebook demonstrates a complete machine learning workflow—from exploratory data analysis and preprocessing to clustering, classification, model evaluation, and business insights.
+
 
 The provided dataset contains socio-economic indicators of countries. The same Machine Learning workflow used here is directly applicable to customer intelligence systems for segmentation, behavioral analysis, and predictive analytics.
 
-The project demonstrates a complete Machine Learning pipeline, beginning with data understanding and ending with actionable business insights.
+The assignment demonstrates a complete Machine Learning pipeline, beginning with data understanding and ending with actionable business insights.
 
 ---
 
