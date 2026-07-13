@@ -146,6 +146,6 @@ Week-4/
 
 **Shreyash Kedari**
 
-Artificial Intelligence & Data Science
+Dr. D. Y. Patil Institute of Technology, Pimpri, Pune
 
 Celebal Technologies Internship
