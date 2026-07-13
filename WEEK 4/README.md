@@ -144,8 +144,8 @@ Week-4/
 
 ## Author
 
-**Shreyash Kedari**
+### **Shreyash Rohidas Kedari**
 
-Dr. D. Y. Patil Institute of Technology, Pimpri, Pune
+**Dr. D. Y. Patil Institute of Technology, Pimpri, Pune**
 
-Celebal Technologies Internship
+🚀 Celebal Excellence Internship (CEI) Program 2026
