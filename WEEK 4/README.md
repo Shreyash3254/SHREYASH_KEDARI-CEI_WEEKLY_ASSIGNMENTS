@@ -133,6 +133,15 @@ Week-4/
 
 ---
 
+## ✅ Conclusion
+
+- The ANN model successfully classified CIFAR-10 images but was limited because flattening images removes important spatial information.
+- The CNN model achieved significantly better performance by learning local features such as edges, textures, and object shapes through convolutional layers.
+- Increasing the number of convolution filters (32 → 64 → 128) enabled the network to learn richer feature representations.
+- Applying EarlyStopping reduced overfitting by restoring the best-performing model during training.
+- Data augmentation further improved generalization by exposing the model to transformed versions of training images.
+- Overall, the CNN with data augmentation achieved the best performance, demonstrating why CNNs are the preferred choice for image classification tasks.
+
 ## Author
 
 **Shreyash Kedari**
