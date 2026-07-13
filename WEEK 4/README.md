@@ -125,7 +125,7 @@ Through this project, I learned:
 ```
 Week-4/
 │
-├── CIFAR10_ANN_CNN_Learning_Project.ipynb
+├── WEEK4__Shreyash_Kedari_.ipynb
 ├── README.md
 ├── requirements.txt
 └── images/
