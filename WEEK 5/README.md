@@ -250,6 +250,9 @@ Through this project, I gained hands-on experience with:
 
 **Shreyash Rohidas Kedari**
 
+
+## **Intern ID :- CT_CSI_DS_912**
+
 B.E. Artificial Intelligence & Data Science  
 Dr. D. Y. Patil Institute of Technology, Pimpri  
 Pune, Maharashtra
@@ -258,7 +261,7 @@ Pune, Maharashtra
 
 # 🙏 Acknowledgements
 
-- Celebal Technologies Internship Program
+- 🚀 Celebal Excellence Internship (CEI) Program 2026
 - TensorFlow Documentation
 - Keras Documentation
 - Python Open Source Community
