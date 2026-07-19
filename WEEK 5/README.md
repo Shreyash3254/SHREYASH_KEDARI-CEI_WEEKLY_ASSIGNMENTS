@@ -248,14 +248,14 @@ Through this project, I gained hands-on experience with:
 
 # 👨‍💻 Author
 
-**Shreyash Rohidas Kedari**
+## **Shreyash Rohidas Kedari**
 
 
-## **Intern ID :- CT_CSI_DS_912**
+### **Intern ID :- CT_CSI_DS_912**
 
 B.E. Artificial Intelligence & Data Science  
-Dr. D. Y. Patil Institute of Technology, Pimpri  
-Pune, Maharashtra
+**Dr. D. Y. Patil Institute of Technology, Pimpri  
+Pune, Maharashtra**
 
 ---
 
