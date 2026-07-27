@@ -25,14 +25,6 @@ The notebook demonstrates the complete deep learning workflow, including data pr
 
 ---
 
-# 🎓 About the CEI Program
-
-The **Celebal Excellence Internship (CEI) Program 2026** is an industry-oriented internship initiative designed to provide students with practical exposure to emerging technologies through structured assignments, mentor guidance, and real-world project implementation.
-
-This project was developed as part of the Deep Learning module under the internship curriculum.
-
----
-
 # 🎯 Objectives
 
 - Build a Convolutional Autoencoder
@@ -207,9 +199,9 @@ The trained model is evaluated using:
 
 # 👨‍💻 Author
 
-**Shreyash Rohidas Kedari**
+### **Shreyash Rohidas Kedari**
 
-Artificial Intelligence & Data Science Undergraduate
+Dr. D. Y. Patil Institute of Technology, Pimpri, Pune
 
 🎓 **Celebal Excellence Internship (CEI) Program 2026**
 
