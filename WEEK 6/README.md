@@ -158,7 +158,7 @@ The trained model is evaluated using:
 │   ├── training_loss.png
 │   ├── reconstruction.png
 │   ├── error_heatmap.png
-│   └── architecture.png
+│   └── model_summary.png
 └── 📄 requirements.txt
 ```
 
