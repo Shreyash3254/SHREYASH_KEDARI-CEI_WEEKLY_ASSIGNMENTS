@@ -152,7 +152,7 @@ The trained model is evaluated using:
 ```
 📦 Autoencoder-Image-Denoising-MNIST
 │
-├── 📓 Autoencoder_Image_Denoising.ipynb
+├── 📓 Week6_<ShreyashKedari>.ipynb
 ├── 📄 README.md
 ├── 📂 images
 │   ├── training_loss.png
